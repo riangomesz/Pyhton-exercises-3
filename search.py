@@ -1,3 +1,7 @@
+# Programa que recebe uma frase e uma palavra escrita pelo o usuário 
+# Após isso ele retorna ao usuário se a palavra está na frase ou não está na frase
+
+
 text = input()
 word = input()
 
