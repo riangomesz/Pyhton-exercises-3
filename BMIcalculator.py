@@ -1,3 +1,4 @@
+# Program to calculate the BMI of the person and returns to him saying if he is Underweight, Normal, Overweight or Obese
 
 peso = int(input())
 altura = float(input())
