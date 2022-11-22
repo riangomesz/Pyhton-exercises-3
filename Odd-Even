@@ -1,0 +1,8 @@
+# Code that tells the user if the number is even or odd
+
+x = int(input("Dividend:"))
+resto = x % 2
+if resto == 0:
+    print("This number is Even")
+else:
+    print("This number is Odd")
