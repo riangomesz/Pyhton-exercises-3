@@ -1,5 +1,9 @@
+
+
 # Função tudo que retorna valor
 # Metodo é aquilo que não retorna
+
+# Código que utiliza o método "class" em Python
 
 class Calculadora:
     def __init__(self):
