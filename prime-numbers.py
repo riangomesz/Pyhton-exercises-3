@@ -1,4 +1,5 @@
-# Programa 
+# Programa que recebe um número digitado pelo usuário e imprime
+# Todos os números primos até o número informado
 
 a = int(input("Enter a number: "))
 print("The prime numbers found are")
