@@ -1,3 +1,5 @@
+# Programa 
+
 a = int(input("Enter a number: "))
 print("The prime numbers found are")
 for num in range (a):
