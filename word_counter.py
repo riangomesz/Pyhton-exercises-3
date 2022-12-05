@@ -1,3 +1,5 @@
+# Program that receives a list of words and says the number of 
+
 def word_counter(list_words):
     counter = []
     for x in list_words:
