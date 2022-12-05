@@ -7,6 +7,6 @@ def word_counter(list_words):
         counter.append(qtde)
     return counter
 if __name__ == '__main__':
-    list = ['dog','cat','bird','wolf']
+    list = ['dog','cat','bird','wolf','whale','shark']
     print(word_counter(list))
     
