@@ -1,4 +1,4 @@
-# Program that receives a list of words and says the number of 
+# Program that receives a list of words and says the number of letters each word have
 
 def word_counter(list_words):
     counter = []
