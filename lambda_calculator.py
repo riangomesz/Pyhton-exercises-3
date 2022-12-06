@@ -1,4 +1,4 @@
-# Program made using 
+# Program made using lambda
 
 a = int(input('Type the first number: ' ))
 b = int(input('Type the second number: ' ))
