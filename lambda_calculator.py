@@ -1,3 +1,5 @@
+# Program made using 
+
 a = int(input('Type the first number: ' ))
 b = int(input('Type the second number: ' ))
 
