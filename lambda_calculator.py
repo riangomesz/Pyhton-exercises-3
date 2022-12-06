@@ -1,4 +1,4 @@
-# Program made using lambda
+# Program made using lambda functions
 
 a = int(input('Type the first number: ' ))
 b = int(input('Type the second number: ' ))
