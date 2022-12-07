@@ -1,3 +1,6 @@
+# Programa que utiliza as funções de data do calendário baseadas nas configurações atuais da CPU
+
+
 from datetime import date
 
 def trabalhando_com_data():
