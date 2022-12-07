@@ -1,5 +1,5 @@
 # Programa que utiliza as funções de data do calendário baseadas nas configurações atuais da CPU
-
+# Quando executado o código ele imprime o dia o mês e o ano 
 
 from datetime import date
 
