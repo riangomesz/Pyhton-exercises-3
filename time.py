@@ -1,3 +1,5 @@
+# Função datime que importa um horário pré estabelecido no computador 
+
 from datetime import time
 
 def trabalhando_com_time():
