@@ -1,3 +1,5 @@
+# Programa que recebe e trata o erros 
+
 class Error(Exception):
     pass
 
