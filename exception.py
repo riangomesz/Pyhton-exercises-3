@@ -1,4 +1,5 @@
-# Programa que recebe e trata o erros 
+# Programa que recebe e aborda o erros utilizando as classes "exception" e
+# "pass" para que chegue ao usuário da melhor maneira, facilitando o compreendimento
 
 class Error(Exception):
     pass
