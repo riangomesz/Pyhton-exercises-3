@@ -1,4 +1,5 @@
 # Simulador simples de compras em Python
+# utilizando o método da lista
 
 lista_de_compras = []
 print("Olá você está no sacolão do Verdemar.\n E acabou de ganhar um voucher com \n descontos para escolher dez alimetos.")
