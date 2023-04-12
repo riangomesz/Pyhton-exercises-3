@@ -1,3 +1,5 @@
+#Python program that takes pokemon charizard skills and returns on screen
+
 import requests
 
 def retorna_dados_pokemon(pokemon):
